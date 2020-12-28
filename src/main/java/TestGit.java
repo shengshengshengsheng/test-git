@@ -6,6 +6,6 @@
  */
 public class TestGit {
     public static void main(String[] args) {
-        System.out.println("新建程序001");
+        System.out.println("local分支");
     }
 }
